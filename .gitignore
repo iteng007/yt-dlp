@@ -113,7 +113,6 @@ yt-dlp.zip
 # Text Editor / IDE
 .idea
 *.iml
-.vscode
 *.sublime-*
 *.code-workspace
 
@@ -123,3 +122,6 @@ yt-dlp.zip
 # Plugins
 ytdlp_plugins/
 yt-dlp-plugins
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
